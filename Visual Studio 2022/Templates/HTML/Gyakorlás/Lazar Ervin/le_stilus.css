@@ -1,0 +1,100 @@
+﻿body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 15px;
+	color: #000000;
+	padding: 0px;
+	background-color: white;
+}
+
+p{
+	text-align:justify;
+	padding: 5px;
+	color: #0E0E0E;
+}
+
+hr {
+	display: block;
+	margin-top: 8px;
+	border-style: inset;
+	border-width: 1px;
+}
+
+h1, h2{
+	color: #EB6160;
+	padding: 5px;
+}
+
+h2{
+	font-size:17px;
+}
+
+#fejlec {
+	padding: 10px;
+	color: white;
+	font-weight: bold;
+	font-size:10px;
+	text-align: right;
+	background-color: #EB6160;
+	font-size: 30px;
+}
+
+#tartalom {
+	margin: 0 auto 0 auto;
+	padding: 0px;
+	text-align: left;
+	width: 1000px;
+	background-color: white;
+}
+
+#oszlop1, #oszlop3 {
+	width: 220px;
+	float: left;
+	padding: 0px;
+	background-color: #ffffff;
+}
+
+#column{
+	float: left;
+	padding: 5px;
+}
+
+#row{
+	content: "";
+	clear: both;
+	display: table;
+}
+.dia{
+	padding-top: 10px;
+}
+
+#oszlop2{
+	width: 560px;
+	float: left;
+	padding: 0px;
+	background-color: #ffffff;
+}
+
+#lablec {
+    clear: both;
+    background-color: #ffffff;
+}
+
+.kep {
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 0px;
+	width: 190px;
+}
+
+.kepalairas{
+	
+}
+
+.szurke{
+	color: #c7c7c7;
+}
+
+a:link, a:active, a:visited, a:hover {
+	color:#0E0E0E;
+}
+
